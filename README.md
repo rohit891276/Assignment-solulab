@@ -1,5 +1,20 @@
 # Assignment-solulab --
 
+
+
+
+# Steps to Run the code
+
+    ● Step-1 : First of all copy the repository link, In your screen one "small Green color background shown and the font color will be "WHITE COLOR" simply click that and copy the link"  
+    ● Step-2 : After that clone in the local system so that you can see the code on your system if code is not clone the go to setp-1 
+    ● Step-3 : Now open the terminal so that you can install the packages, to run the code by simply writing "npm i" that it after that go to final Step- 4
+    ● Step-4 : Now this is the final step to run the code  by only writing simply "npm start" and you are all set to run the code on your system 
+    
+# -------------------------------------------------------------------------------------
+
+
+
+
 Make sure you read the whole document carefully and follow the guidelines in it.
 Preface:
 Build a RESTful API that can /create/read/update/delete Product and Category data from a
@@ -57,3 +72,7 @@ persistence database.
     ● Good use of current Node.js & API design best practices.
     ● Good testing approach.
     ● Extensible code.
+
+
+
+
