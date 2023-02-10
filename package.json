@@ -1,0 +1,26 @@
+{
+  "name": "assignment-solulab",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit891276/Assignment-solulab.git"
+  },
+  "keywords": [],
+  "author": "Rohit Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit891276/Assignment-solulab/issues"
+  },
+  "homepage": "https://github.com/rohit891276/Assignment-solulab#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
